@@ -1,2 +1,2 @@
 # 2D_matrix_Calc
-Codes to calculate a 2D matrix
+A function to search for a target value in a 2D matrix with rows and columns sorted in ascending order
